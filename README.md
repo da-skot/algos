@@ -67,4 +67,4 @@
 [Различные слагаемые](https://github.com/da-skot/algos/blob/main/src/algos/raz_slag.cs)
 
 [Белоснежка и очень много гномов](https://github.com/da-skot/algos/blob/main/src/algos/bel.cs)
-# Задачи по теории графов
+# Задачи по теории графам
