@@ -29,4 +29,10 @@
 [Пирамидальная сортировка](https://github.com/da-skot/algos/blob/main/src/algos/Heap_Sort.cs)
 
 [Хипуй](https://github.com/da-skot/algos/blob/main/src/algos/heapify.cs)
-##
+## DM Algos 2021. #6 (Cipher)
+[Шифр Цезаря](https://github.com/da-skot/algos/blob/main/src/algos/CaesarCipher.cs)
+
+[Шифровка](https://github.com/da-skot/algos/blob/main/src/algos/encryption.cs)
+
+[Функция Эйлера](https://github.com/da-skot/algos/blob/main/src/algos/Euler_Function.cs)
+## 
