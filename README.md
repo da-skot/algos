@@ -35,4 +35,16 @@
 [Шифровка](https://github.com/da-skot/algos/blob/main/src/algos/encryption.cs)
 
 [Функция Эйлера](https://github.com/da-skot/algos/blob/main/src/algos/Euler_Function.cs)
-## 
+## DM Algos 2021. #8 (Code)
+[Декодирование Хаффмана](https://github.com/da-skot/algos/blob/main/src/algos/Decode_Huffman.cs)
+
+[Кодирование Хаффмана](https://github.com/da-skot/algos/blob/main/src/algos/Encode_Huffman.cs)
+## DM Algos 2021. #9 (LZW)
+[Кодирование LZW](https://github.com/da-skot/algos/blob/main/src/algos/LZW_Encode.cs)
+
+[Декодирование LZW](https://github.com/da-skot/algos/blob/main/src/algos/LZW_Decode.cs)
+## DM Algos 2021. #10 (Hamming)
+[Код Хэмминга. Кодирование](https://github.com/da-skot/algos/blob/main/src/algos/Encode_Hamming.cs)
+
+[Код Хэмминга. Декодирование](https://github.com/da-skot/algos/blob/main/src/algos/Hamming_Decode.cs)
+##
