@@ -56,14 +56,15 @@
 ## DM Algos 2021. #11 (Additional Algos)
 [Огромное число Фибоначчи по модулю](https://github.com/da-skot/algos/blob/main/src/algos/pisano.py)
 
-[Наибольший общий делитель]()
+[Наибольший общий делитель](https://github.com/da-skot/algos/blob/main/src/algos/nod.cs)
 
-[Наибольшая последовательнократная подпоследовательность]()
+[Наибольшая последовательнократная подпоследовательность](https://github.com/da-skot/algos/blob/main/src/algos/podposled_pos.cs)
 
-[Расстояние редактирования]()
+[Расстояние редактирования](https://github.com/da-skot/algos/blob/main/src/algos/Levenshtein.cs)
 
-[Построение кучи]()
+[Построение кучи](https://github.com/da-skot/algos/blob/main/src/algos/build_hep.cs)
 
-[Различные слагаемые]()
+[Различные слагаемые](https://github.com/da-skot/algos/blob/main/src/algos/raz_slag.cs)
 
-[Белоснежка и очень много гномов]()
+[Белоснежка и очень много гномов](https://github.com/da-skot/algos/blob/main/src/algos/bel.cs)
+# Задачи по теории графов
