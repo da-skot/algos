@@ -47,4 +47,23 @@
 [Код Хэмминга. Кодирование](https://github.com/da-skot/algos/blob/main/src/algos/Encode_Hamming.cs)
 
 [Код Хэмминга. Декодирование](https://github.com/da-skot/algos/blob/main/src/algos/Hamming_Decode.cs)
-##
+## DM Algos 2021. #11 (Dynamics)
+[Поиск длины подпоследовательности](https://github.com/da-skot/algos/blob/main/src/algos/podposled.cs)
+
+[Задача о камнях](https://github.com/da-skot/algos/blob/main/src/algos/kamni.cs)
+
+[Поход](https://github.com/da-skot/algos/blob/main/src/algos/pohod.cs)
+## DM Algos 2021. #11 (Additional Algos)
+[Огромное число Фибоначчи по модулю](https://github.com/da-skot/algos/blob/main/src/algos/pisano.py)
+
+[Наибольший общий делитель]()
+
+[Наибольшая последовательнократная подпоследовательность]()
+
+[Расстояние редактирования]()
+
+[Построение кучи]()
+
+[Различные слагаемые]()
+
+[Белоснежка и очень много гномов]()
