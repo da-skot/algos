@@ -94,4 +94,13 @@
 [Алгоритм Форда-Белмана](https://github.com/da-skot/algos/blob/main/src/graphs/belman_ford.cs)
 
 [Алгоритм Флойда](https://github.com/da-skot/algos/blob/main/src/graphs/Floyd.cs)
-##
+## DM Algos 2021. #8 (MST)
+[Минимальный каркас(Алгоритм Прима)](https://github.com/da-skot/algos/blob/main/src/graphs/prima.cs)
+
+[Вес компоненты(Система непересекающихся множеств)](https://github.com/da-skot/algos/blob/main/src/graphs/dsu.cs)
+## DM Algos 2021. #10 (Combs)
+[Перестановка по номеру](https://github.com/da-skot/algos/blob/main/src/graphs/perest.cpp)
+
+[Все сочетания из n по k](https://github.com/da-skot/algos/blob/main/src/graphs/comb.cs)
+
+[Разбиение на невозрастающие слагаемые, лексикографический порядок](https://github.com/da-skot/algos/blob/main/src/graphs/leks.cs)
