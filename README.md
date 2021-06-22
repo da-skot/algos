@@ -67,7 +67,7 @@
 [Различные слагаемые](https://github.com/da-skot/algos/blob/main/src/algos/raz_slag.cs)
 
 [Белоснежка и очень много гномов](https://github.com/da-skot/algos/blob/main/src/algos/bel.cs)
-# Задачи по теории графам
+# Задачи по теории графов
 ## DM Algos 2021. #2 (Graph Theory Basics)
 [От матрицы смежности к списку ребер, ориентированный вариант](https://github.com/da-skot/algos/blob/main/src/graphs/1A.java)
 
