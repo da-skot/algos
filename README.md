@@ -68,3 +68,30 @@
 
 [Белоснежка и очень много гномов](https://github.com/da-skot/algos/blob/main/src/algos/bel.cs)
 # Задачи по теории графам
+## DM Algos 2021. #2 (Graph Theory Basics)
+[От матрицы смежности к списку ребер, ориентированный вариант](https://github.com/da-skot/algos/blob/main/src/graphs/1A.java)
+
+[Полустепени вершин по спискам ребер](https://github.com/da-skot/algos/blob/main/src/graphs/1B.java)
+
+[Полный граф](https://github.com/da-skot/algos/blob/main/src/graphs/1C.cs)
+
+[Транзитивность ориентированного графа](https://github.com/da-skot/algos/blob/main/src/graphs/1D.java)
+## DM Algos 2021. #3 (DFS, BFS)
+[Поиск в глубину](https://github.com/da-skot/algos/blob/main/src/algos/dfs.cs)
+
+[Компоненты связности](https://github.com/da-skot/algos/blob/main/src/algos/Component_graph.cpp)
+
+[Путь в графе](https://github.com/da-skot/algos/blob/main/src/algos/path_graph.cs)
+
+[Поиск цикла](https://github.com/da-skot/algos/blob/main/src/algos/cycle_search.cs)
+## DM Algos 2021. #5 (Cycle)
+[Почтальон](https://github.com/da-skot/algos/blob/main/src/graphs/Postman.cs)
+## DM Algos 2021. #6 (TSP)
+[Коммивояжёр](https://github.com/da-skot/algos/blob/main/src/graphs/comivoyajor.cs)
+## DM Algos 2021. #7 (Path)
+[Алгоритм Дейкстры](https://github.com/da-skot/algos/blob/main/src/graphs/Dijkstra.cs)
+
+[Алгоритм Форда-Белмана](https://github.com/da-skot/algos/blob/main/src/graphs/belman_ford.cs)
+
+[Алгоритм Флойда](https://github.com/da-skot/algos/blob/main/src/graphs/Floyd.cs)
+##
